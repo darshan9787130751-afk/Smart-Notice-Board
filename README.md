@@ -1,9 +1,11 @@
 Smart Notice Board
+
 Project Overview
 
 Smart Notice Board is a web-based application that digitizes the traditional notice board system. It enables administrators to create, manage, and publish notices online, allowing users to access important announcements anytime and from any device. The system provides a centralized platform for efficient communication within educational institutions or organizations.
 
 Key Features
+
 Secure administrator login
 Create, edit, and delete notices
 Publish notices instantly
@@ -12,6 +14,8 @@ Responsive design for desktop and mobile devices
 User-friendly interface
 Real-time notice updates
 Organized notice management
+
+
 Technology Stack
 Frontend
 React.js
@@ -25,34 +29,28 @@ Supabase (Backend as a Service)
 PostgreSQL Database
 Supabase Authentication
 Supabase Storage (if used)
+
+
 Development Tools
 Visual Studio Code
 Git
 GitHub
 Bolt.new
-Architecture
-User
-   │
-   ▼
-React Frontend
-   │
-   ▼
-Supabase API
-   │
-   ▼
-PostgreSQL Database
+
 Modules
 Authentication Module
 Dashboard Module
 Notice Management Module
 User Management Module (if implemented)
 Database Module
+
 Objectives
 Replace paper-based notice boards.
 Improve communication efficiency.
 Provide instant access to announcements.
 Reduce paperwork.
 Enable centralized notice management.
+
 Advantages
 Easy to use
 Fast notice publishing
@@ -70,6 +68,7 @@ Search and filtering
 User roles and permissions
 Analytics dashboard
 Dark mode
+
 Technologies Summary
 Technology	Purpose
 React.js	User Interface
@@ -81,6 +80,7 @@ PostgreSQL	Database
 Git	Version Control
 GitHub	Source Code Repository
 Bolt.new	AI-assisted development
+
 Live Demo
 
 Project URL:
